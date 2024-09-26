@@ -1,0 +1,18 @@
+Obligatorisk opgave 1
+
+I fagene Programmering og Teknologi
+
+Efteråret 2024
+
+opgave 1 + 2 https://github.com/devexcsgo/TrophyLibrary.git
+
+Opgave 3 
+https://github.com/devexcsgo/opgave_3.git
+https://silas-opgave3.azurewebsites.net/
+
+
+Opgave 4 + 5 
+https://github.com/devexcsgo/TCPServer.git
+https://github.com/devexcsgo/TCPClient.git
+
+
