@@ -11,7 +11,11 @@ https://github.com/devexcsgo/opgave_3.git
 https://silas-opgave3.azurewebsites.net/
 
 
-Opgave 4 + 5 
+Opgave 4 
+https://github.com/devexcsgo/TCPServerUdenJSON.git
+https://github.com/devexcsgo/TCPClientUdenJSON.git
+
+Opgave 5
 https://github.com/devexcsgo/TCPServer.git
 https://github.com/devexcsgo/TCPClient.git
 
